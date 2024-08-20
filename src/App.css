@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+  }
+  
+  button.selected {
+    font-weight: bold;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input, select {
+    margin-right: 10px;
+  }
+  
